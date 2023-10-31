@@ -1,7 +1,8 @@
 
 # Contributors
 - [TechySavant](https://github.com/techy-savant)
-- [Xiong Gu] (https://github.com/gggxxxx)
+- [Xiong Gu](https://github.com/gggxxxx)
+- [Teena Jacob](https://github.com/Teena-Jacob)
 - [Ashwin Dhangar](https://github.com/MrAshwin2142)
 - [Ram Tyagi](https://github.com/Ram-tyagi)  
 - [DezS](https://github.com/DezS4125)
